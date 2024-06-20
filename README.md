@@ -1,15 +1,37 @@
-# My Network Certificate:
-![image](networkCert/PrepCisco.jpg)
+# Network Engineer Portfolio
 
-# My Cloud Certificate:
-![image](networkCert/kritsada.png)
-![image](networkCert/UGoogleCloud.jpg)
+Welcome to my Network Engineer Portfolio! This portfolio showcases my skills, certifications, and practical experience in the field of network engineering. Below is a summary of my key certifications and practice methodologies, demonstrating my commitment to excellence and continuous learning.
 
-# This is the way use for practice:
+### Certifications:
+
+1. **CCNA Routing and Switching**
+   - **Issued By:** ITcert
+   - **Date:** November 18, 2022
+   - **Description:** This certification validates my ability to install, configure, operate, and troubleshoot medium-size routed and switched networks. It also includes the implementation and verification of connections to remote sites in a WAN.
+
+   ![CCNA Certificate](file-GqgpgXS1CWicvWdGKMr12Jfu)
+
+2. **AWS Academy Graduate - AWS Academy Cloud Foundations**
+   - **Issued By:** AWS Academy
+   - **Date:** July 3, 2024
+   - **Description:** This course provided comprehensive training in cloud computing concepts, AWS core services, security, architecture, pricing, and support. It equipped me with foundational knowledge to build and manage applications in the AWS cloud environment.
+
+   ![AWS Certificate](file-RREuskMpdX8dYTQUJKlRoadK)
+
+3. **Google Cloud Platform (GCP) Fundamentals for Beginners**
+   - **Issued By:** Udemy
+   - **Date:** April 13, 2024
+   - **Instructor:** Janakiram MSV
+   - **Description:** This certification covers the fundamental principles and practices of Google Cloud Platform. It includes an introduction to the core GCP services and how to leverage them for deploying and managing applications.
+
+   ![GCP Certificate](https://path/to/certificate/image)
+
+### Practical Experience:
+
 ## Cisco Packet Tracer Labs and Study Materials
 This repository contains various Cisco Packet Tracer labs and study materials for networking enthusiasts and students. These resources cover a range of topics from basic router configuration to advanced VLAN setups and HSRP configurations.
 
-## Packet Tracer Lab Files
+### Packet Tracer Lab Files:
 
 - **(Optional) Packet Tracer - Configure DHCPv4.pka**
 - **(Optional) Packet Tracer - Configure Layer 3 Switching and Inter-VLAN Routing.pka**
@@ -27,7 +49,7 @@ This repository contains various Cisco Packet Tracer labs and study materials fo
 - **11 Packet Tracer - Configure Extended IPv4 ACLs - Scenario 2.pka**
 - **12 Packet Tracer - Configure NAT for IPv4.pka**
 
-## Study Materials
+### Study Materials:
 
 - **ENSA_Module_1.pdf**
 - **ENSA_Module_2.pdf**
@@ -50,10 +72,15 @@ This repository contains various Cisco Packet Tracer labs and study materials fo
 - **ciscoRouterPreparr.pdf**
 - **topolory.pkt**
 
-## How to Use
+### How to Use
 
 1. Download and install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer).
 2. Clone or download this repository to your local machine.
 3. Open the `.pka` files with Cisco Packet Tracer to start the labs.
 4. Refer to the PDF documents for study materials and additional instructions.
 
+## About Me
+
+I was a dedicated network engineer with a solid foundation in networking and cloud technologies. However, I decided to pivot my career path because the field of data is incredibly captivating, and my passion for mathematics drew me toward it. While I am now focused on becoming a data expert, I still possess strong networking skills and knowledge, allowing me to leverage a unique blend of expertise in both domains.
+
+Feel free to explore my portfolio to see examples of my work and how I apply my skills to real-world networking and data challenges.
