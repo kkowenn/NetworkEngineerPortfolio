@@ -1,8 +1,8 @@
-# My Network certificate:
+# My Network Certificate:
 ![image](networkCert/PrepCisco.jpg)
 
-# My Cloud certificate:
-![image](networkCert/FundAWS.pdf)
+# My Cloud Certificate:
+![image](networkCert/kritsada.png)
 ![image](networkCert/UGoogleCloud.jpg)
 
 # This is the way use for practice:
