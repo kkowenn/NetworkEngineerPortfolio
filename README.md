@@ -1,5 +1,12 @@
-# Cisco Packet Tracer Labs and Study Materials
+# My Network certificate:
+![image](networkCert/PrepCisco.jpg)
 
+# My Cloud certificate:
+![image](networkCert/FundAWS.pdf)
+![image](networkCert/UGoogleCloud.jpg)
+
+# This is the way use for practice:
+## Cisco Packet Tracer Labs and Study Materials
 This repository contains various Cisco Packet Tracer labs and study materials for networking enthusiasts and students. These resources cover a range of topics from basic router configuration to advanced VLAN setups and HSRP configurations.
 
 ## Packet Tracer Lab Files
