@@ -1,6 +1,6 @@
 # Network Engineer Portfolio
 
-Welcome to my Network Engineer Portfolio! This portfolio showcases my skills, certifications, and practical experience in the field of network engineering. Below is a summary of my key certifications and practice methodologies, demonstrating my commitment to excellence and continuous learning.
+Welcome to my Network Engineer Portfolio! This portfolio showcases my skills, certifications, and practical experience in the field of network engineering. Below is a summary of my key certifications and practice methodologies.
 
 ### Certifications:
 
