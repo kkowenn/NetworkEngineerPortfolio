@@ -82,5 +82,3 @@ This repository contains various Cisco Packet Tracer labs and study materials fo
 ## About Me
 
 I was a dedicated network engineer with a solid foundation in networking and cloud technologies. However, I decided to pivot my career path because the field of data is incredibly captivating, and my passion for mathematics drew me toward it. While I am now focused on becoming a data expert, I still possess strong networking skills and knowledge, allowing me to leverage a unique blend of expertise in both domains.
-
-Feel free to explore my portfolio to see examples of my work and how I apply my skills to real-world networking and data challenges.
