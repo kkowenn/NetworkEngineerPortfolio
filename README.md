@@ -5,26 +5,29 @@ Welcome to my Network Engineer Portfolio! This portfolio showcases my skills, ce
 ### Certifications:
 
 1. **Prep CCNA Routing and Switching**
+   ![CCNA Certificate](networkCert/PrepCisco.jpg)
+
    - **Issued By:** ITcert
    - **Date:** November 18, 2022
    - **Description:** This certification validates my ability to install, configure, operate, and troubleshoot medium-size routed and switched networks. It also includes the implementation and verification of connections to remote sites in a WAN.
 
-   ![CCNA Certificate](networkCert/PrepCisco.jpg)
-
 2. **AWS Academy Graduate - AWS Academy Cloud Foundations**
+
+   ![AWS Certificate](networkCert/kritsada.png)
+
    - **Issued By:** AWS Academy
    - **Date:** July 3, 2024
    - **Description:** This course provided comprehensive training in cloud computing concepts, AWS core services, security, architecture, pricing, and support. It equipped me with foundational knowledge to build and manage applications in the AWS cloud environment.
 
-   ![AWS Certificate](networkCert/kritsada.png)
 
 3. **Google Cloud Platform (GCP) Fundamentals for Beginners**
+
+   ![GCP Certificate](networkCert/UGoogleCloud.jpg)
+
    - **Issued By:** Udemy
    - **Date:** April 13, 2024
    - **Instructor:** Janakiram MSV
    - **Description:** This certification covers the fundamental principles and practices of Google Cloud Platform. It includes an introduction to the core GCP services and how to leverage them for deploying and managing applications.
-
-   ![GCP Certificate](networkCert/UGoogleCloud.jpg)
 
 ### Practical Experience:
 
