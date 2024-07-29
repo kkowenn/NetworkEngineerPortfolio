@@ -19,16 +19,6 @@ Welcome to my Network Engineer Portfolio! This portfolio showcases my skills, ce
    - **Date:** July 3, 2024
    - **Description:** This course provided comprehensive training in cloud computing concepts, AWS core services, security, architecture, pricing, and support. It equipped me with foundational knowledge to build and manage applications in the AWS cloud environment.
 
-
-3. **Google Cloud Platform (GCP) Fundamentals for Beginners**
-
-   ![GCP Certificate](networkCert/UGoogleCloud.jpg)
-
-   - **Issued By:** Udemy
-   - **Date:** April 13, 2024
-   - **Instructor:** Janakiram MSV
-   - **Description:** This certification covers the fundamental principles and practices of Google Cloud Platform. It includes an introduction to the core GCP services and how to leverage them for deploying and managing applications.
-
 ### Practical Experience:
 
 ## Cisco Packet Tracer Labs and Study Materials
