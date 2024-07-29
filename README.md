@@ -11,16 +11,6 @@ Welcome to my Network Engineer Portfolio! This portfolio showcases my skills, ce
    - **Date:** November 18, 2022
    - **Description:** This certification validates my ability to install, configure, operate, and troubleshoot medium-size routed and switched networks. It also includes the implementation and verification of connections to remote sites in a WAN.
 
-2. **AWS Academy Graduate - AWS Academy Cloud Foundations**
-
-   ![AWS Certificate](networkCert/kritsada.png)
-
-   - **Issued By:** AWS Academy
-   - **Date:** July 3, 2024
-   - **Description:** This course provided comprehensive training in cloud computing concepts, AWS core services, security, architecture, pricing, and support. It equipped me with foundational knowledge to build and manage applications in the AWS cloud environment.
-
-### Practical Experience:
-
 ## Cisco Packet Tracer Labs and Study Materials
 This repository contains various Cisco Packet Tracer labs and study materials for networking enthusiasts and students. These resources cover a range of topics from basic router configuration to advanced VLAN setups and HSRP configurations.
 
@@ -74,4 +64,4 @@ This repository contains various Cisco Packet Tracer labs and study materials fo
 
 ## About Me
 
-I was a dedicated network engineer with a solid foundation in networking and cloud technologies. However, I decided to pivot my career path because the field of data is incredibly captivating, and my passion for mathematics drew me toward it. While I am now focused on becoming a data expert, I still possess strong networking skills and knowledge, allowing me to leverage a unique blend of expertise in both domains.
+I was a dedicated network engineer with a solid foundation in networking. However, I decided to pivot my career path because the field of data is incredibly captivating, and my passion for mathematics drew me toward it. While I am now focused on becoming a data expert, I still possess strong networking skills and knowledge, allowing me to leverage a unique blend of expertise in both domains.
