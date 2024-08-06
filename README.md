@@ -61,7 +61,3 @@ This repository contains various Cisco Packet Tracer labs and study materials fo
 2. Clone or download this repository to your local machine.
 3. Open the `.pka` files with Cisco Packet Tracer to start the labs.
 4. Refer to the PDF documents for study materials and additional instructions.
-
-## About Me
-
-I was a dedicated network engineer with a solid foundation in networking. However, I decided to pivot my career path because the field of data is incredibly captivating, and my passion for mathematics drew me toward it. While I am now focused on becoming a data expert, I still possess strong networking skills and knowledge, allowing me to leverage a unique blend of expertise in both domains.
